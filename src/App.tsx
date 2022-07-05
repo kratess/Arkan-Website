@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
 
-import background from "./background.png";
-import characters from "./characters.png";
-import girl from "./girl.png";
-import logo from "./logo.png";
+import background from "./assets/img/background.png";
+import characters from "./assets/img/characters.png";
+import girl from "./assets/img/girl.png";
+import logo from "./assets/img/logo.png";
 
 function App() {
   return (
